@@ -1,0 +1,8 @@
+{
+  "name": "package-json-react-native-field-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "react-native": "react-native.js",
+  "author": "Jirat Ki",
+  "license": "MIT"
+}
